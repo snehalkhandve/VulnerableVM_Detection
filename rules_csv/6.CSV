@@ -1,0 +1,2 @@
+destination ip,protocol,ALLOW/DENY
+-,icmp,ALLOW

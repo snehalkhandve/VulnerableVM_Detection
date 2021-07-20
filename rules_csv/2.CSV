@@ -1,0 +1,6 @@
+destination ip,protocol,ALLOW/DENY
+192.168.10.1,tcp,ALLOW
+192.168.10.3,tcp,DENY
+192.168.10.4,udp,ALLOW
+192.168.10.5,icmp,ALLOW
+192.168.10.6,all,ALLOW
